@@ -4,4 +4,4 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 Markdown syntax : https://www.markdownguide.org/basic-syntax/
 
-URL A markdown notes app :
+URL markdown notes app : https://ajobart.github.io/Markdown-notes-app/
